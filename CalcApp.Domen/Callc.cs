@@ -12,4 +12,9 @@ public class Calc
     {
         return num % 2 == 0;
     }
+
+    public int Multipl(int a, int b)
+    {
+        return a * b;
+    }
 }
